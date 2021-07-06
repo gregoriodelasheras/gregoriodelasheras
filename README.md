@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-1F1F1F?style=for-the-badge&logo=PostgreSQL&logoColor=007ACC">
   <img src="https://img.shields.io/badge/MySQL-1F1F1F?style=for-the-badge&logo=MySQL&logoColor=FF9900">
   <img src="https://img.shields.io/badge/GraphQL-1F1F1F?style=for-the-badge&logo=GraphQL">
+  <img src="https://img.shields.io/badge/Firebase-1F1F1F?style=for-the-badge&logo=Firebase">
 </p>
 
 <h3>Other Web Dev skills:</h3>
@@ -76,7 +77,7 @@
   <img src="https://img.shields.io/badge/Git-1F1F1F?style=for-the-badge&logo=Git">
   <img src="https://img.shields.io/badge/AWS-1F1F1F?style=for-the-badge&logo=Amazon-AWS&logoColor=FF9900">
   <img src="https://img.shields.io/badge/GCP-1F1F1F?style=for-the-badge&logo=Google-Cloud">
-  <img src="https://img.shields.io/badge/Firebase-1F1F1F?style=for-the-badge&logo=Firebase">
+  <img src="https://img.shields.io/badge/Vercel-1F1F1F?style=for-the-badge&logo=Vercel">
   <img src="https://img.shields.io/badge/Heroku-1F1F1F?style=for-the-badge&logo=Heroku&logoColor=8E6AC8">
   <img src="https://img.shields.io/badge/Netlify-1F1F1F?style=for-the-badge&logo=Netlify">
   <img src="https://img.shields.io/badge/Docker-1F1F1F?style=for-the-badge&logo=Docker">
@@ -85,7 +86,6 @@
   <img src="https://img.shields.io/badge/Jest-1F1F1F?style=for-the-badge&logo=Jest&logoColor=C21325">
   <img src="https://img.shields.io/badge/Cucumber-1F1F1F?style=for-the-badge&logo=Cucumber">
   <img src="https://img.shields.io/badge/Puppeteer-1F1F1F?style=for-the-badge&logo=Puppeteer&logoColor=00B8B8">
-  <img src="https://img.shields.io/badge/Trello-1F1F1F?style=for-the-badge&logo=Trello&logoColor=007ACC">
   <img src="https://img.shields.io/badge/Figma-1F1F1F?style=for-the-badge&logo=Figma">
 </p>
 
@@ -123,6 +123,7 @@
   <img src="https://img.shields.io/badge/npm-1F1F1F?style=for-the-badge&logo=npm">
   <img src="https://img.shields.io/badge/ESLint-1F1F1F?style=for-the-badge&logo=ESLint&logoColor=8E6AC8">
   <img src="https://img.shields.io/badge/Prettier-1F1F1F?style=for-the-badge&logo=Prettier">
+  <img src="https://img.shields.io/badge/Trello-1F1F1F?style=for-the-badge&logo=Trello&logoColor=007ACC">
   
   <br> [![Spotify](https://spotify-now-gregoriodelasheras.vercel.app//api/spotify)](https://open.spotify.com/user/5ca36eceecda41c38a91394f15fe2f2f)
 
