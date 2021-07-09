@@ -81,7 +81,6 @@
   <img src="https://img.shields.io/badge/Heroku-1F1F1F?style=for-the-badge&logo=Heroku&logoColor=8E6AC8">
   <img src="https://img.shields.io/badge/Netlify-1F1F1F?style=for-the-badge&logo=Netlify">
   <img src="https://img.shields.io/badge/Docker-1F1F1F?style=for-the-badge&logo=Docker">
-  <img src="https://img.shields.io/badge/Android%20Studio-1F1F1F?style=for-the-badge&logo=Android-Studio">
   <img src="https://img.shields.io/badge/Postman-1F1F1F?style=for-the-badge&logo=Postman">
   <img src="https://img.shields.io/badge/Jest-1F1F1F?style=for-the-badge&logo=Jest&logoColor=C21325">
   <img src="https://img.shields.io/badge/Cucumber-1F1F1F?style=for-the-badge&logo=Cucumber">
