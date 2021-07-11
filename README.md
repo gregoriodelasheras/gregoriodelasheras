@@ -12,7 +12,7 @@
 <h1 align="center">🌐 Hello world!</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77192223/115478478-8b18c980-a246-11eb-8c84-8c038f5e7eb8.png">
+  <img src="https://user-images.githubusercontent.com/77192223/125203677-b9bca400-e279-11eb-96aa-cf71da468101.gif">
 </p>
 
 <p align="center">
