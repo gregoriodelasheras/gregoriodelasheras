@@ -27,9 +27,9 @@
 
 <h2>💬 Tech Facts about me:</h2>
 
-💻 The repository I'm currently working on is [miniChat](https://github.com/gregoriodelasheras/minichat) (a chat app for mobile devices built with React Native).
+💻 The repository I'm currently working on is [myVHS Client-A](https://github.com/gregoriodelasheras/myvhs-client-a) (a Web App built with the MEAN stack).
 
-👽 I'm now learning Native App Development with React Native and Firebase in depth.
+👽 I'm now learning Angular and TypeScript in depth.
 
 💾 I love computers for as long as I can remember. I started using them in the 90s before I learned to read!
 
