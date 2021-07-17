@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/CSS-1F1F1F?style=for-the-badge&logo=CSS3&logoColor=2965F1">
   <img src="https://img.shields.io/badge/Sass-1F1F1F?style=for-the-badge&logo=Sass">
   <img src="https://img.shields.io/badge/JavaScript-1F1F1F?style=for-the-badge&logo=JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-1F1F1F?style=for-the-badge&logo=TypeScript">
   <img src="https://img.shields.io/badge/jQuery-1F1F1F?style=for-the-badge&logo=jQuery&logoColor=37A2EA">
   <img src="https://img.shields.io/badge/Bootstrap-1F1F1F?style=for-the-badge&logo=Bootstrap&logoColor=8E6AC8">
   <img src="https://img.shields.io/badge/Material-1F1F1F?style=for-the-badge&logo=Material-Design&logoColor=FFFFFF">
