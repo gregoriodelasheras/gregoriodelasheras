@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  I'm a Web Developer Student with more than 10 years of experience as a self-taught Web Designer. I worked as a freelancer for several social, cultural and small business projects in Chile. My current goal is to work as a Front-End, Back-End or Full-Stack Programmer, because I like to solve complex problems and turn my ideas into reality. Besides Web Development and Design, I'm also interested in Databases, Cyber Security and Videogames Development.
+  I'm a Web Developer with more than 10 years of experience as a self-taught Web Designer. I worked as a freelancer for several social, cultural and small business projects in Chile. My current goal is to work as a Front-End, Back-End or Full-Stack Programmer, because I like to solve complex problems and turn my ideas into reality. Besides Web Development and Design, I'm also interested in Databases, Cyber Security and Videogames Development.
 </p>
 
 <!-- Tech Facts about me -->
