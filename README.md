@@ -54,8 +54,13 @@
   <img src="https://img.shields.io/badge/jQuery-1F1F1F?style=for-the-badge&logo=jQuery&logoColor=37A2EA">
   <img src="https://img.shields.io/badge/Bootstrap-1F1F1F?style=for-the-badge&logo=Bootstrap&logoColor=8E6AC8">
   <img src="https://img.shields.io/badge/Material-1F1F1F?style=for-the-badge&logo=Material-Design&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-1F1F1F?style=for-the-badge&logo=Tailwind-CSS">
   <img src="https://img.shields.io/badge/React-1F1F1F?style=for-the-badge&logo=React">
   <img src="https://img.shields.io/badge/Angular-1F1F1F?style=for-the-badge&logo=Angular&logoColor=DD0031">
+  <img src="https://img.shields.io/badge/Next.js-1F1F1F?style=for-the-badge&logo=Next.js">
+  <img src="https://img.shields.io/badge/Gatsby-1F1F1F?style=for-the-badge&logo=Gatsby&logoColor=663399">
+  <img src="https://img.shields.io/badge/Redux-1F1F1F?style=for-the-badge&logo=Redux&logoColor=764ABC">
+  <img src="https://img.shields.io/badge/D3.js-1F1F1F?style=for-the-badge&logo=D3.js">
 </p>
 
 <h3>Back-End:</h3>
@@ -64,11 +69,9 @@
   <img src="https://img.shields.io/badge/Node.js-1F1F1F?style=for-the-badge&logo=Node.js">
   <img src="https://img.shields.io/badge/Java-1F1F1F?style=for-the-badge&logo=Java&logoColor=009CCC">
   <img src="https://img.shields.io/badge/C--Sharp-1F1F1F?style=for-the-badge&logo=C-Sharp&logoColor=2DB828">
-  <img src="https://img.shields.io/badge/Python-1F1F1F?style=for-the-badge&logo=Python">
   <img src="https://img.shields.io/badge/MongoDB-1F1F1F?style=for-the-badge&logo=MongoDB">
   <img src="https://img.shields.io/badge/PostgreSQL-1F1F1F?style=for-the-badge&logo=PostgreSQL&logoColor=007ACC">
   <img src="https://img.shields.io/badge/MySQL-1F1F1F?style=for-the-badge&logo=MySQL&logoColor=FF9900">
-  <img src="https://img.shields.io/badge/GraphQL-1F1F1F?style=for-the-badge&logo=GraphQL">
   <img src="https://img.shields.io/badge/Firebase-1F1F1F?style=for-the-badge&logo=Firebase">
 </p>
 
