@@ -27,9 +27,9 @@
 
 <h2>💬 Tech Facts about me:</h2>
 
-💻 The repository I'm currently working on is [myVHS Client-A](https://github.com/gregoriodelasheras/myvhs-client-a) (a Web App built with the MEAN stack).
+💻 The repository I'm currently working on is [Nintendata](https://github.com/gregoriodelasheras/nintendata) (a Web App built with Angular).
 
-👽 I'm now learning Angular and TypeScript in depth.
+👽 I'm now learning TypeScript, Angular, RxJS and NgRx in depth.
 
 💾 I love computers for as long as I can remember. I started using them in the 90s before I learned to read!
 
