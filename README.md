@@ -123,6 +123,7 @@
   <img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm">
   <img src="https://img.shields.io/badge/Prettier-0D1117?style=for-the-badge&logo=Prettier">
   <img src="https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=Trello&logoColor=007ACC">
+  <img src="https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=Spotify&logoColor=1DB954">
 </div>
 
 <br>
