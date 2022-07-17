@@ -7,25 +7,25 @@
   <img src="https://img.shields.io/badge/Lives-Germany-blue?style=for-the-badge">
 </p>
 
+<br>
+
 <!-- Introduction -->
 
-<h1 align="center">🌐 Hello world!</h1>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77192223/125203677-b9bca400-e279-11eb-96aa-cf71da468101.gif">
+  <img src="https://user-images.githubusercontent.com/77192223/179396660-9577f91e-905d-49ac-a99b-baf2f3f14623.gif" alt="HerasDev GIF" width="416">
 </p>
 
 <p align="center">
-  👋 Hi, I'm Francisco Gregorio de las Heras!
+  🤙 Hi, I'm Francisco Gregorio de las Heras!
 </p>
 
 <p align="center">
-  Thanks for visiting my GitHub profile and repositories. I'm a Chilean Web Developer with more than 10 years of experience in Web Development and Design. I currently work at <a href="https://www.planb.net">PlanB.</a> as a Solution Expert.
+  Thanks for visiting my GitHub profile and repositories. I'm a Chilean Web Developer with more than 15 years of experience in Web Development and Design. I currently work at <a href="https://www.planb.net">PlanB.</a> as a Solution Expert.
 </p>
 
 <!-- Tech Facts about me -->
 
-<h2>💬 Tech Facts about me:</h2>
+<br><h2>💬 Tech Facts about me:</h2>
 
 💻 The repository I'm currently working on is [myVHS Client-A](https://github.com/gregoriodelasheras/myvhs-client-a) (a Web App built with the MEAN stack).
 
@@ -35,13 +35,13 @@
 
 ⚡ I made [my first web page](https://pancho.neocities.org/) in 1997, when I was 10 years old, on Yahoo GeoCities using Microsoft FrontPage.
 
-👾 In my free time I like to play retro videogames.
+👾 In my free time I like to play retro videogames (and also achieve some challenges in [RetroAchievements](https://retroachievements.org/user/PanchoChancho)).
 
 🗡 My favorite video game is "The Legend of Zelda: A Link to the Past" (1991).
 
 <!-- Tech Stack -->
 
-<h2>🛠️ Tech Stack:</h2>
+<br><h2>🛠️ Tech Stack:</h2>
 
 <h3>Front-End:</h3>
 
@@ -97,7 +97,7 @@
 
 <!-- GitHub Statistics -->
 
-<h2>🐙 GitHub Statistics:</h2>
+<br><h2>🐙 GitHub Statistics:</h2>
 
 <div align="center">
   
@@ -111,7 +111,7 @@
 
 <!-- My work environment -->
 
-<h2>💡 My work environment:</h2>
+<br><h2>💡 My work environment:</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Windows%2011-0D1117?style=for-the-badge&logo=Windows&logoColor=0078D6">
