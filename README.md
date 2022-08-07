@@ -12,7 +12,7 @@
 <!-- Introduction -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77192223/179396660-9577f91e-905d-49ac-a99b-baf2f3f14623.gif" alt="HerasDev GIF" width="416">
+  <img src="https://user-images.githubusercontent.com/77192223/183300063-6cccfce5-3d9b-4753-83c9-be1c4eff5423.gif" alt="HerasDev GIF">
 </p>
 
 <p align="center">
