@@ -1,7 +1,7 @@
 <!-- Personal facts -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-36-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Age-37-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/From-Chile-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Lives-Germany-blue?style=for-the-badge">
@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/Gatsby-0D1117?style=for-the-badge&logo=Gatsby&logoColor=663399">
   <img src="https://img.shields.io/badge/Material%20Design%203-0D1117?style=for-the-badge&logo=Material-Design&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=Tailwind-CSS">
+  <img src="https://img.shields.io/badge/Kendo%20UI-0D1117?style=for-the-badge&logo=betterstack&logoColor=00DD00">
   <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=Figma">
 </p>
 
@@ -74,9 +75,9 @@
 <p>
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=Git">
   <img src="https://img.shields.io/badge/Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=0078D7">
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=Amazon-AWS&logoColor=FF9900">
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
   <img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=Google-Cloud">
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase">
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase&logoColor=DD2C00">
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=Docker">
   <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=Postman">
 </p>
@@ -111,9 +112,10 @@
   <img src="https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=PowerShell">
   <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=Visual-Studio-Code&logoColor=007ACC">
   <img src="https://img.shields.io/badge/Visual%20Studio-0D1117?style=for-the-badge&logo=Visual-Studio&logoColor=5C2D91">
+  <img src="https://img.shields.io/badge/Android%20Studio-0D1117?style=for-the-badge&logo=androidstudio&logoColor=3DDC84">
   <img src="https://img.shields.io/badge/Notepad++-0D1117?style=for-the-badge&logo=NotepadPlusPlus&logoColor=90E59A">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub">
-  <img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm">
+  <img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837">
   <img src="https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=Spotify&logoColor=1DB954">
 </div>
 
