@@ -47,27 +47,35 @@
   <img src="https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=Sass">
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=TypeScript">
-  <img src="https://img.shields.io/badge/ReactiveX-0D1117?style=for-the-badge&logo=ReactiveX&logoColor=B7178C">
   <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=Angular&logoColor=DD0031">
+  <img src="https://img.shields.io/badge/RxJS-0D1117?style=for-the-badge&logo=ReactiveX&logoColor=B7178C">
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=React">
-  <img src="https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic">
-  <img src="https://img.shields.io/badge/Capacitor-0D1117?style=for-the-badge&logo=capacitor">
+  <img src="https://img.shields.io/badge/Remix-0D1117?style=for-the-badge&logo=remix">
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=Next.js">
   <img src="https://img.shields.io/badge/Gatsby-0D1117?style=for-the-badge&logo=Gatsby&logoColor=663399">
+  <img src="https://img.shields.io/badge/Nx-0D1117?style=for-the-badge&logo=nx&logoColor=143055">
+  <img src="https://img.shields.io/badge/electron-0D1117?style=for-the-badge&logo=electron&logoColor=47848F">
+  <img src="https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic">
+  <img src="https://img.shields.io/badge/Capacitor-0D1117?style=for-the-badge&logo=capacitor">
+  <img src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/Material%20Design%203-0D1117?style=for-the-badge&logo=Material-Design&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=Tailwind-CSS">
-  <img src="https://img.shields.io/badge/Kendo%20UI-0D1117?style=for-the-badge&logo=betterstack&logoColor=00DD00">
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
+  <img src="https://img.shields.io/badge/Kendo%20UI-0D1117?style=for-the-badge&logo=progress&logoColor=5CE500">
   <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=Figma">
 </p>
 
 <h3>Back-End:</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/C--Sharp-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4">
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=Node.js">
   <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=Express">
+  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4">
+  <img src="https://img.shields.io/badge/C--Sharp-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4">
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=SQL">
+  <img src="https://img.shields.io/badge/NoSQL-0D1117?style=for-the-badge&logo=NoSQL">
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase&logoColor=DD2C00">
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=MongoDB">
-  
 </p>
 
 <h3>Other Web Dev Skills:</h3>
@@ -77,9 +85,6 @@
   <img src="https://img.shields.io/badge/Azure%20DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=0078D7">
   <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
   <img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=Google-Cloud">
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase&logoColor=DD2C00">
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=Docker">
-  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=Postman">
 </p>
 
 <h3>Game Dev:</h3>
