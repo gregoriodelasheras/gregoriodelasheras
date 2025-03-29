@@ -1,45 +1,45 @@
-<!-- Personal facts -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Age-37-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/From-Chile-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Lives-Germany-blue?style=for-the-badge">
-</p>
-
-<br>
-
 <!-- Introduction -->
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/77192223/183300063-6cccfce5-3d9b-4753-83c9-be1c4eff5423.gif" alt="HerasDev GIF">
 </p>
+<h4 align="center">🌍 Full-Stack Web Developer | Game Developer | 20+ Years of Experience | Passionate About Clean Code & Creative Interfaces</h4>
 
-<p align="center">
-  🤙 Hi, I'm Francisco Gregorio de las Heras!
-</p>
+<br>
 
-<p align="center">
-  Thanks for visiting my GitHub profile and repositories. I'm a Chilean Web Developer with more than 15 years of experience in Web Development and Design. I currently work at <a href="https://www.planb.net">PlanB.</a> as a Solution Expert.
-</p>
+<!-- About Me -->
+---
+### 🧠 About Me
+---
 
-<!-- Tech Facts about me -->
+🤙 Cowabunga, dudes! I'm Pancho -also known as HerasDev- a Chilean Web Developer based in Germany. I’ve been building web, mobile and desktop apps for over 20 years, from small websites to large-scale enterprise solutions. I specialize in crafting clean, performant and user-friendly digital experiences using modern frameworks and tools.
 
-<br><h2>💬 Tech Facts about me:</h2>
+I’m passionate about:
 
-💾 I love computers for as long as I can remember. I started using them in the 90s before I learned to read!
+- Turning complex problems into intuitive interfaces  
+- Writing clean, scalable code  
+- Designing systems that feel good to use  
 
-⚡ I made [my first web page](https://pancho.neocities.org/) in 1997, when I was 10 years old, on Yahoo GeoCities using Microsoft FrontPage.
+🌟 Whether I’m building a dashboard, a game or a productivity tool, I put love and detail into every pixel and every line of code!
 
-👾 In my free time I like to play retro videogames (and also achieve some challenges in [RetroAchievements](https://retroachievements.org/user/PanchoChancho)).
+<br>
 
-🗡 My favorite video game is "The Legend of Zelda: A Link to the Past" (1991).
+<!-- Fun Tech Facts -->
+---
+### ⚡ Fun Tech Facts
+---
+
+- 🐣 I've loved computers since the early '90s... long before I knew how to read!
+- 🌐 I built my first website in 1997 when I was 10 years old on Yahoo GeoCities using Microsoft FrontPage. You can still see it [here](https://pancho.neocities.org/)!
+- 🕹️ Retro games are my thing. I'm an active user on [RetroAchievements](https://retroachievements.org/user/PanchoChancho).
+- ⚔️ Favorite game ever? *The Legend of Zelda: A Link to the Past* (Super Nintendo, 1991).
+
+<br>
 
 <!-- Tech Stack -->
-
-<br><h2>🛠️ Tech Stack:</h2>
-
-<h3>Front-End:</h3>
+---
+### 🛠️ Tech Stack:
+---
+#### Front-End & UI Development:
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=HTML5">
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=Next.js">
   <img src="https://img.shields.io/badge/Gatsby-0D1117?style=for-the-badge&logo=Gatsby&logoColor=663399">
   <img src="https://img.shields.io/badge/Nx-0D1117?style=for-the-badge&logo=nx&logoColor=143055">
-  <img src="https://img.shields.io/badge/electron-0D1117?style=for-the-badge&logo=electron&logoColor=47848F">
+  <img src="https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=Electron&logoColor=47848F">
   <img src="https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic">
   <img src="https://img.shields.io/badge/Capacitor-0D1117?style=for-the-badge&logo=capacitor">
   <img src="https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react">
@@ -65,20 +65,20 @@
   <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=Figma">
 </p>
 
-<h3>Back-End:</h3>
+#### Back-End & APIs:
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=Node.js">
   <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=Express">
-  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4">
-  <img src="https://img.shields.io/badge/C--Sharp-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4">
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4">
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=SQL">
   <img src="https://img.shields.io/badge/NoSQL-0D1117?style=for-the-badge&logo=NoSQL">
   <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase&logoColor=DD2C00">
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=MongoDB">
 </p>
 
-<h3>Other Web Dev Skills:</h3>
+#### Other Web Development Tools:
 
 <p>
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=Git">
@@ -87,50 +87,30 @@
   <img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=Google-Cloud">
 </p>
 
-<h3>Game Dev:</h3>
+#### Game Development Tools:
 
 <p>
   <img src="https://img.shields.io/badge/Godot%20Engine-0D1117?style=for-the-badge&logo=Godot-Engine">
   <img src="https://img.shields.io/badge/Aseprite-0D1117?style=for-the-badge&logo=Aseprite&logoColor=FFFFFF">
 </p>
 
+<br>
+
 <!-- GitHub Statistics -->
+---
+### 🐙 GitHub Statistics
+---
 
-<br><h2>🐙 GitHub Statistics:</h2>
-
-<br>
-
-<div align="center">
+<p align="center">
+  <!-- Most used languages -->
+  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelasheras&amp;layout=compact&amp;show_icons=true&amp;theme=chartreuse-dark&amp;bg_color=0D1117&amp;border_color=15FF00&amp;card_width=600" alt="Top Langs">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelasheras&layout=compact&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=15FF00)
+  <!-- GitHub Stats -->
+  <img width="600" src="https://github-readme-stats.vercel.app/api?username=gregoriodelasheras&amp;show_icons=true&amp;theme=chartreuse-dark&amp;bg_color=0D1117&amp;border_color=15FF00&amp;hide=contribs&amp;card_width=600" alt="GitHub Stats">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregoriodelasheras&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=15FF00&hide=contribs)
+  <!-- GitHub Streak -->
+  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=gregoriodelasheras&amp;background=0D1117&amp;border=15FF00&amp;stroke=15FF00&amp;ring=15FF00&amp;fire=15FF00&amp;currStreakNum=15FF00&amp;sideNums=15FF00&amp;currStreakLabel=15FF00&amp;sideLabels=15FF00&amp;dates=FFFFFF" alt="GitHub Streak">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gregoriodelasheras&background=0D1117&border=15FF00&stroke=15FF00&ring=15FF00&fire=15FF00&currStreakNum=15FF00&sideNums=15FF00&currStreakLabel=15FF00&sideLabels=15FF00&dates=FFFFFF)
-
-</div>
-
-<!-- My work environment -->
-
-<br><h2>💡 My work environment:</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Windows%2011-0D1117?style=for-the-badge&logo=Windows&logoColor=0078D6">
-  <img src="https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=PowerShell">
-  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=Visual-Studio-Code&logoColor=007ACC">
-  <img src="https://img.shields.io/badge/Visual%20Studio-0D1117?style=for-the-badge&logo=Visual-Studio&logoColor=5C2D91">
-  <img src="https://img.shields.io/badge/Android%20Studio-0D1117?style=for-the-badge&logo=androidstudio&logoColor=3DDC84">
-  <img src="https://img.shields.io/badge/Notepad++-0D1117?style=for-the-badge&logo=NotepadPlusPlus&logoColor=90E59A">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub">
-  <img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837">
-  <img src="https://img.shields.io/badge/Spotify-0D1117?style=for-the-badge&logo=Spotify&logoColor=1DB954">
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  
-  [![Spotify](https://spotify-now-gregoriodelasheras.vercel.app/api/spotify?background_color=0D1117&border_color=15FF00)](https://open.spotify.com/user/1cgl09yxs797qjz1ywxsis2d7)
-  
-</div>
+  <!-- Spotify -->
+  <img width="600" src="https://spotify-now-gregoriodelasheras.vercel.app/api/spotify?background_color=0D1117&amp;border_color=15FF00" alt="Spotify">
+</p>
