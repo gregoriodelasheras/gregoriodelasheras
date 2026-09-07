@@ -103,14 +103,13 @@ I’m passionate about:
 
 <p align="center">
   <!-- Most used languages -->
-  <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriodelasheras&amp;layout=compact&amp;show_icons=true&amp;theme=chartreuse-dark&amp;bg_color=0D1117&amp;border_color=15FF00&amp;card_width=600" alt="Top Langs">
+  <img width="600" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gregoriodelasheras&amp;layout=compact&amp;show_icons=true&amp;theme=chartreuse-dark&amp;bg_color=0D1117&amp;border_color=15FF00&amp;card_width=600" alt="Top Langs">
+  <br><br>
   
   <!-- GitHub Stats -->
-  <img width="600" src="https://github-readme-stats.vercel.app/api?username=gregoriodelasheras&amp;show_icons=true&amp;theme=chartreuse-dark&amp;bg_color=0D1117&amp;border_color=15FF00&amp;hide=contribs&amp;card_width=600" alt="GitHub Stats">
+  <img width="600" src="https://github-stats-extended.vercel.app/api?username=gregoriodelasheras&amp;show_icons=true&amp;theme=chartreuse-dark&amp;bg_color=0D1117&amp;border_color=15FF00&amp;hide=contribs&amp;card_width=600" alt="GitHub Stats">
+  <br><br>
   
   <!-- GitHub Streak -->
   <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=gregoriodelasheras&amp;background=0D1117&amp;border=15FF00&amp;stroke=15FF00&amp;ring=15FF00&amp;fire=15FF00&amp;currStreakNum=15FF00&amp;sideNums=15FF00&amp;currStreakLabel=15FF00&amp;sideLabels=15FF00&amp;dates=FFFFFF" alt="GitHub Streak">
-  
-  <!-- Spotify -->
-  <img width="600" src="https://spotify-now-gregoriodelasheras.vercel.app/api/spotify?background_color=0D1117&amp;border_color=15FF00" alt="Spotify">
 </p>
